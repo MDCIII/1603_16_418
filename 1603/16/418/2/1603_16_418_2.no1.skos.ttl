@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:418()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chanthabuly"@eng-Latn ,
         "ມ. ຈັນທະບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -191,7 +189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phonhong"@eng-Latn ,
         "ມ. ໂພນໂຮງ"@lao-Laoo ;
-    wdata:q7200235 "LA1001" ;
 .
 
 <urn:mdciii:1603:16:418:2:1002>
@@ -202,7 +199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thoulakhom"@eng-Latn ,
         "ມ. ທຸລະຄົມ"@lao-Laoo ;
-    wdata:q7200235 "LA1002" ;
 .
 
 <urn:mdciii:1603:16:418:2:1003>
@@ -213,7 +209,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Keo Oudom"@eng-Latn ,
         "ມ. ແກ້ວອຸດົມ"@lao-Laoo ;
-    wdata:q7200235 "LA1003" ;
 .
 
 <urn:mdciii:1603:16:418:2:1004>
@@ -224,7 +219,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kasy"@eng-Latn ,
         "ມ. ກາສີ"@lao-Laoo ;
-    wdata:q7200235 "LA1004" ;
 .
 
 <urn:mdciii:1603:16:418:2:1005>
@@ -235,7 +229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vangvieng"@eng-Latn ,
         "ມ. ວັງວຽງ"@lao-Laoo ;
-    wdata:q7200235 "LA1005" ;
 .
 
 <urn:mdciii:1603:16:418:2:1006>
@@ -246,7 +239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Feuang"@eng-Latn ,
         "ມ. ເຟືອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1006" ;
 .
 
 <urn:mdciii:1603:16:418:2:1007>
@@ -257,7 +249,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xanakharm"@eng-Latn ,
         "ມ. ຊະນະຄາມ"@lao-Laoo ;
-    wdata:q7200235 "LA1007" ;
 .
 
 <urn:mdciii:1603:16:418:2:1008>
@@ -268,7 +259,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mad"@eng-Latn ,
         "ມ. ແມດ"@lao-Laoo ;
-    wdata:q7200235 "LA1008" ;
 .
 
 <urn:mdciii:1603:16:418:2:1009>
@@ -279,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viengkham"@eng-Latn ,
         "ມ. ວຽງຄຳ"@lao-Laoo ;
-    wdata:q7200235 "LA1009" ;
 .
 
 <urn:mdciii:1603:16:418:2:1010>
@@ -290,7 +279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hinherb"@eng-Latn ,
         "ມ. ຫີນເຫີບ"@lao-Laoo ;
-    wdata:q7200235 "LA1010" ;
 .
 
 <urn:mdciii:1603:16:418:2:1013>
@@ -301,7 +289,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Meun"@eng-Latn ,
         "ມ. ໜື່ນ"@lao-Laoo ;
-    wdata:q7200235 "LA1013" ;
 .
 
 <urn:mdciii:1603:16:418:2:102>
@@ -312,7 +299,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sikhottabong"@eng-Latn ,
         "ມ. ສີໂຄດຕະບອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0102" ;
 .
 
 <urn:mdciii:1603:16:418:2:103>
@@ -323,7 +309,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaysetha"@eng-Latn ,
         "ມ. ໄຊເສດຖາ"@lao-Laoo ;
-    wdata:q7200235 "LA0103" ;
 .
 
 <urn:mdciii:1603:16:418:2:104>
@@ -334,7 +319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sisattanak"@eng-Latn ,
         "ມ. ສີສັດຕະນາກ"@lao-Laoo ;
-    wdata:q7200235 "LA0104" ;
 .
 
 <urn:mdciii:1603:16:418:2:105>
@@ -345,7 +329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Naxaithong"@eng-Latn ,
         "ມ. ນາຊາຍທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0105" ;
 .
 
 <urn:mdciii:1603:16:418:2:106>
@@ -356,7 +339,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaythany"@eng-Latn ,
         "ມ. ໄຊທະນີ"@lao-Laoo ;
-    wdata:q7200235 "LA0106" ;
 .
 
 <urn:mdciii:1603:16:418:2:107>
@@ -367,7 +349,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hadxaifong"@eng-Latn ,
         "ມ. ຫາດຊາຍຟອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0107" ;
 .
 
 <urn:mdciii:1603:16:418:2:108>
@@ -378,7 +359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sangthong"@eng-Latn ,
         "ມ. ສັງທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0108" ;
 .
 
 <urn:mdciii:1603:16:418:2:109>
@@ -389,7 +369,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mayparkngum"@eng-Latn ,
         "ມ. ປາກງື່ມ"@lao-Laoo ;
-    wdata:q7200235 "LA0109" ;
 .
 
 <urn:mdciii:1603:16:418:2:1101>
@@ -400,7 +379,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pakxane"@eng-Latn ,
         "ມ. ປາກຊັນ"@lao-Laoo ;
-    wdata:q7200235 "LA1101" ;
 .
 
 <urn:mdciii:1603:16:418:2:1102>
@@ -411,7 +389,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thaphabath"@eng-Latn ,
         "ມ. ທ່າພະບາດ"@lao-Laoo ;
-    wdata:q7200235 "LA1102" ;
 .
 
 <urn:mdciii:1603:16:418:2:1103>
@@ -422,7 +399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pakkading"@eng-Latn ,
         "ມ. ປາກກະດິງ"@lao-Laoo ;
-    wdata:q7200235 "LA1103" ;
 .
 
 <urn:mdciii:1603:16:418:2:1104>
@@ -433,7 +409,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bolikhanh"@eng-Latn ,
         "ມ. ບໍລິຄັນ"@lao-Laoo ;
-    wdata:q7200235 "LA1104" ;
 .
 
 <urn:mdciii:1603:16:418:2:1105>
@@ -444,7 +419,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khamkeuth"@eng-Latn ,
         "ມ. ຄຳເກີດ"@lao-Laoo ;
-    wdata:q7200235 "LA1105" ;
 .
 
 <urn:mdciii:1603:16:418:2:1106>
@@ -455,7 +429,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viengthong"@eng-Latn ,
         "ມ. ວຽງທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1106" ;
 .
 
 <urn:mdciii:1603:16:418:2:1107>
@@ -466,7 +439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaychamphone"@eng-Latn ,
         "ມ. ໄຊຈຳພອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1107" ;
 .
 
 <urn:mdciii:1603:16:418:2:1201>
@@ -477,7 +449,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thakhek"@eng-Latn ,
         "ມ. ທ່າແຂກ"@lao-Laoo ;
-    wdata:q7200235 "LA1201" ;
 .
 
 <urn:mdciii:1603:16:418:2:1202>
@@ -488,7 +459,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mahaxay"@eng-Latn ,
         "ມ. ມະຫາໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1202" ;
 .
 
 <urn:mdciii:1603:16:418:2:1203>
@@ -499,7 +469,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nongbok"@eng-Latn ,
         "ມ. ໝອງບົກ"@lao-Laoo ;
-    wdata:q7200235 "LA1203" ;
 .
 
 <urn:mdciii:1603:16:418:2:1204>
@@ -510,7 +479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hinboon"@eng-Latn ,
         "ມ. ຫີນບູນ"@lao-Laoo ;
-    wdata:q7200235 "LA1204" ;
 .
 
 <urn:mdciii:1603:16:418:2:1205>
@@ -521,7 +489,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nhommalath"@eng-Latn ,
         "ມ. ຍົມມະລາດ"@lao-Laoo ;
-    wdata:q7200235 "LA1205" ;
 .
 
 <urn:mdciii:1603:16:418:2:1206>
@@ -532,7 +499,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bualapha"@eng-Latn ,
         "ມ. ບົວລະພາ"@lao-Laoo ;
-    wdata:q7200235 "LA1206" ;
 .
 
 <urn:mdciii:1603:16:418:2:1207>
@@ -543,7 +509,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nakay"@eng-Latn ,
         "ມ. ນາກາຍ"@lao-Laoo ;
-    wdata:q7200235 "LA1207" ;
 .
 
 <urn:mdciii:1603:16:418:2:1208>
@@ -554,7 +519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xebangfay"@eng-Latn ,
         "ມ. ເຊບັ້ງໄຟ"@lao-Laoo ;
-    wdata:q7200235 "LA1208" ;
 .
 
 <urn:mdciii:1603:16:418:2:1209>
@@ -565,7 +529,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaybuathong"@eng-Latn ,
         "ມ. ໄຊບົວທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1209" ;
 .
 
 <urn:mdciii:1603:16:418:2:1210>
@@ -576,7 +539,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khounkham"@eng-Latn ,
         "ມ. ຄຼນຄຳ"@lao-Laoo ;
-    wdata:q7200235 "LA1210" ;
 .
 
 <urn:mdciii:1603:16:418:2:1301>
@@ -587,7 +549,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kaysone Phomvihane"@eng-Latn ,
         "ມ. ໄກສອນພົມວິຫານ"@lao-Laoo ;
-    wdata:q7200235 "LA1301" ;
 .
 
 <urn:mdciii:1603:16:418:2:1302>
@@ -598,7 +559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Outhoomphone"@eng-Latn ,
         "ມ. ອຸທຸມພອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1302" ;
 .
 
 <urn:mdciii:1603:16:418:2:1303>
@@ -609,7 +569,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Atsaphangthong"@eng-Latn ,
         "ມ. ອາດສະພັງທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1303" ;
 .
 
 <urn:mdciii:1603:16:418:2:1304>
@@ -620,7 +579,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phine"@eng-Latn ,
         "ມ. ພິນ"@lao-Laoo ;
-    wdata:q7200235 "LA1304" ;
 .
 
 <urn:mdciii:1603:16:418:2:1305>
@@ -631,7 +589,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sepone"@eng-Latn ,
         "ມ. ເຊໂປນ"@lao-Laoo ;
-    wdata:q7200235 "LA1305" ;
 .
 
 <urn:mdciii:1603:16:418:2:1306>
@@ -642,7 +599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nong"@eng-Latn ,
         "ມ. ໜອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1306" ;
 .
 
 <urn:mdciii:1603:16:418:2:1307>
@@ -653,7 +609,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thapangthong"@eng-Latn ,
         "ມ. ທາພັງທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1307" ;
 .
 
 <urn:mdciii:1603:16:418:2:1308>
@@ -664,7 +619,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songkhone"@eng-Latn ,
         "ມ. ສອງຄອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1308" ;
 .
 
 <urn:mdciii:1603:16:418:2:1309>
@@ -675,7 +629,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Champhone"@eng-Latn ,
         "ມ. ຈຳພອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1309" ;
 .
 
 <urn:mdciii:1603:16:418:2:1310>
@@ -686,7 +639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xonbuly"@eng-Latn ,
         "ມ. ຊົນບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA1310" ;
 .
 
 <urn:mdciii:1603:16:418:2:1311>
@@ -697,7 +649,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaybuly"@eng-Latn ,
         "ມ. ໄຊບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA1311" ;
 .
 
 <urn:mdciii:1603:16:418:2:1312>
@@ -708,7 +659,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vilabuly"@eng-Latn ,
         "ມ. ວິລະບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA1312" ;
 .
 
 <urn:mdciii:1603:16:418:2:1313>
@@ -719,7 +669,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Atsaphone"@eng-Latn ,
         "ມ. ອາດສະພອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1313" ;
 .
 
 <urn:mdciii:1603:16:418:2:1314>
@@ -730,7 +679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xayphoothong"@eng-Latn ,
         "ມ. ໄຊພູທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1314" ;
 .
 
 <urn:mdciii:1603:16:418:2:1315>
@@ -741,7 +689,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phalanxay"@eng-Latn ,
         "ມ. ພະລານໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1315" ;
 .
 
 <urn:mdciii:1603:16:418:2:1401>
@@ -752,7 +699,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saravane"@eng-Latn ,
         "ມ. ສາລະວັນ"@lao-Laoo ;
-    wdata:q7200235 "LA1401" ;
 .
 
 <urn:mdciii:1603:16:418:2:1402>
@@ -763,7 +709,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ta Oi"@eng-Latn ,
         "ມ. ຕະໂອ່ຍ"@lao-Laoo ;
-    wdata:q7200235 "LA1402" ;
 .
 
 <urn:mdciii:1603:16:418:2:1403>
@@ -774,7 +719,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Toomlarn"@eng-Latn ,
         "ມ. ຕຸ້ມລານ"@lao-Laoo ;
-    wdata:q7200235 "LA1403" ;
 .
 
 <urn:mdciii:1603:16:418:2:1404>
@@ -785,7 +729,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lakhonepheng"@eng-Latn ,
         "ມ. ລະຄອນເພງ"@lao-Laoo ;
-    wdata:q7200235 "LA1404" ;
 .
 
 <urn:mdciii:1603:16:418:2:1405>
@@ -796,7 +739,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vapy"@eng-Latn ,
         "ມ. ວາປີ"@lao-Laoo ;
-    wdata:q7200235 "LA1405" ;
 .
 
 <urn:mdciii:1603:16:418:2:1406>
@@ -807,7 +749,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khongxedone"@eng-Latn ,
         "ມ. ໂຄງເຊໂດນ"@lao-Laoo ;
-    wdata:q7200235 "LA1406" ;
 .
 
 <urn:mdciii:1603:16:418:2:1407>
@@ -818,7 +759,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lao Ngarm"@eng-Latn ,
         "ມ. ເລົ່າງາມ"@lao-Laoo ;
-    wdata:q7200235 "LA1407" ;
 .
 
 <urn:mdciii:1603:16:418:2:1408>
@@ -829,7 +769,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samuoi"@eng-Latn ,
         "ມ. ສະໝ້ວຍ"@lao-Laoo ;
-    wdata:q7200235 "LA1408" ;
 .
 
 <urn:mdciii:1603:16:418:2:1501>
@@ -840,7 +779,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lamarm"@eng-Latn ,
         "ມ. ລະມາມ"@lao-Laoo ;
-    wdata:q7200235 "LA1501" ;
 .
 
 <urn:mdciii:1603:16:418:2:1502>
@@ -851,7 +789,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kaleum"@eng-Latn ,
         "ມ. ກະເລິມ"@lao-Laoo ;
-    wdata:q7200235 "LA1502" ;
 .
 
 <urn:mdciii:1603:16:418:2:1503>
@@ -862,7 +799,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dakcheung"@eng-Latn ,
         "ມ. ດັກຈຶງ"@lao-Laoo ;
-    wdata:q7200235 "LA1503" ;
 .
 
 <urn:mdciii:1603:16:418:2:1504>
@@ -873,7 +809,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thateng"@eng-Latn ,
         "ມ. ທ່າແຕງ"@lao-Laoo ;
-    wdata:q7200235 "LA1504" ;
 .
 
 <urn:mdciii:1603:16:418:2:1601>
@@ -884,7 +819,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pakse"@eng-Latn ,
         "ມ. ປາກເຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1601" ;
 .
 
 <urn:mdciii:1603:16:418:2:1602>
@@ -895,7 +829,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanasomboon"@eng-Latn ,
         "ມ. ຊະນະສົມບູນ"@lao-Laoo ;
-    wdata:q7200235 "LA1602" ;
 .
 
 <urn:mdciii:1603:16:418:2:1603>
@@ -906,7 +839,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bachiangchaleunsook"@eng-Latn ,
         "ມ. ບາຈຽງຈະເລີນສຸກ"@lao-Laoo ;
-    wdata:q7200235 "LA1603" ;
 .
 
 <urn:mdciii:1603:16:418:2:1604>
@@ -917,7 +849,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Paksxong"@eng-Latn ,
         "ມ. ປາກຊ່ອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1604" ;
 .
 
 <urn:mdciii:1603:16:418:2:1605>
@@ -928,7 +859,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pathoomphone"@eng-Latn ,
         "ມ. ປະທຸມພອນ"@lao-Laoo ;
-    wdata:q7200235 "LA1605" ;
 .
 
 <urn:mdciii:1603:16:418:2:1606>
@@ -939,7 +869,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phonthong"@eng-Latn ,
         "ມ. ໂພນທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA1606" ;
 .
 
 <urn:mdciii:1603:16:418:2:1607>
@@ -950,7 +879,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Champasack"@eng-Latn ,
         "ມ. ຈຳປາສັກ"@lao-Laoo ;
-    wdata:q7200235 "LA1607" ;
 .
 
 <urn:mdciii:1603:16:418:2:1608>
@@ -961,7 +889,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sukhuma"@eng-Latn ,
         "ມ. ສຸຂຸມາ"@lao-Laoo ;
-    wdata:q7200235 "LA1608" ;
 .
 
 <urn:mdciii:1603:16:418:2:1609>
@@ -972,7 +899,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Moonlapamok"@eng-Latn ,
         "ມ. ມູນລະປະໂມກ"@lao-Laoo ;
-    wdata:q7200235 "LA1609" ;
 .
 
 <urn:mdciii:1603:16:418:2:1610>
@@ -983,7 +909,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khong"@eng-Latn ,
         "ມ. ໂຂງ"@lao-Laoo ;
-    wdata:q7200235 "LA1610" ;
 .
 
 <urn:mdciii:1603:16:418:2:1701>
@@ -994,7 +919,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaysetha"@eng-Latn ,
         "ມ. ໄຊເສດຖາ"@lao-Laoo ;
-    wdata:q7200235 "LA1701" ;
 .
 
 <urn:mdciii:1603:16:418:2:1702>
@@ -1005,7 +929,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samakkhixay"@eng-Latn ,
         "ມ. ສາມັກຄີໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1702" ;
 .
 
 <urn:mdciii:1603:16:418:2:1703>
@@ -1016,7 +939,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanamxay"@eng-Latn ,
         "ມ. ສະໜາມໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1703" ;
 .
 
 <urn:mdciii:1603:16:418:2:1704>
@@ -1027,7 +949,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanxay"@eng-Latn ,
         "ມ. ຊານໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA1704" ;
 .
 
 <urn:mdciii:1603:16:418:2:1705>
@@ -1038,7 +959,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phouvong"@eng-Latn ,
         "ມ. ພູວົງ"@lao-Laoo ;
-    wdata:q7200235 "LA1705" ;
 .
 
 <urn:mdciii:1603:16:418:2:1801>
@@ -1049,7 +969,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anouvong"@eng-Latn ,
         "ມ. ອະນຸວົງ"@lao-Laoo ;
-    wdata:q7200235 "LA1801" ;
 .
 
 <urn:mdciii:1603:16:418:2:1802>
@@ -1060,7 +979,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thathom"@eng-Latn ,
         "ມ. ທາໂທມ"@lao-Laoo ;
-    wdata:q7200235 "LA1802" ;
 .
 
 <urn:mdciii:1603:16:418:2:1803>
@@ -1071,7 +989,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Longsane"@eng-Latn ,
         "ມ. ລ້ອງຊານ"@lao-Laoo ;
-    wdata:q7200235 "LA1803" ;
 .
 
 <urn:mdciii:1603:16:418:2:1804>
@@ -1082,7 +999,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Home"@eng-Latn ,
         "ມ. ຮົ່ມ"@lao-Laoo ;
-    wdata:q7200235 "LA1804" ;
 .
 
 <urn:mdciii:1603:16:418:2:1805>
@@ -1093,7 +1009,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Longcheng"@eng-Latn ,
         "ມ. ລ້ອງແຈ້ງ"@lao-Laoo ;
-    wdata:q7200235 "LA1805" ;
 .
 
 <urn:mdciii:1603:16:418:2:201>
@@ -1104,7 +1019,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phongsaly"@eng-Latn ,
         "ມ. ຜົ້ງສາລີ"@lao-Laoo ;
-    wdata:q7200235 "LA0201" ;
 .
 
 <urn:mdciii:1603:16:418:2:202>
@@ -1115,7 +1029,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "May"@eng-Latn ,
         "ມ. ໃໝ່"@lao-Laoo ;
-    wdata:q7200235 "LA0202" ;
 .
 
 <urn:mdciii:1603:16:418:2:203>
@@ -1126,7 +1039,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khua"@eng-Latn ,
         "ມ. ຂວາ"@lao-Laoo ;
-    wdata:q7200235 "LA0203" ;
 .
 
 <urn:mdciii:1603:16:418:2:204>
@@ -1137,7 +1049,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samphanh"@eng-Latn ,
         "ມ. ສຳພັນ"@lao-Laoo ;
-    wdata:q7200235 "LA0204" ;
 .
 
 <urn:mdciii:1603:16:418:2:205>
@@ -1148,7 +1059,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Boon Neua"@eng-Latn ,
         "ມ. ບຸນເໜືອ"@lao-Laoo ;
-    wdata:q7200235 "LA0205" ;
 .
 
 <urn:mdciii:1603:16:418:2:206>
@@ -1159,7 +1069,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nhot Ou"@eng-Latn ,
         "ມ. ຍອດອູ"@lao-Laoo ;
-    wdata:q7200235 "LA0206" ;
 .
 
 <urn:mdciii:1603:16:418:2:207>
@@ -1170,7 +1079,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Boontay"@eng-Latn ,
         "ມ. ບຸນໃຕ້"@lao-Laoo ;
-    wdata:q7200235 "LA0207" ;
 .
 
 <urn:mdciii:1603:16:418:2:301>
@@ -1181,7 +1089,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Namtha"@eng-Latn ,
         "ມ. ນ້ຳທາ"@lao-Laoo ;
-    wdata:q7200235 "LA0301" ;
 .
 
 <urn:mdciii:1603:16:418:2:302>
@@ -1192,7 +1099,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sing"@eng-Latn ,
         "ມ. ສິງ"@lao-Laoo ;
-    wdata:q7200235 "LA0302" ;
 .
 
 <urn:mdciii:1603:16:418:2:303>
@@ -1203,7 +1109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long"@eng-Latn ,
         "ມ. ລອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0303" ;
 .
 
 <urn:mdciii:1603:16:418:2:304>
@@ -1214,7 +1119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viengphoukha"@eng-Latn ,
         "ມ. ວຽງພູຄາ"@lao-Laoo ;
-    wdata:q7200235 "LA0304" ;
 .
 
 <urn:mdciii:1603:16:418:2:305>
@@ -1225,7 +1129,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nalae"@eng-Latn ,
         "ມ. ນາແລ"@lao-Laoo ;
-    wdata:q7200235 "LA0305" ;
 .
 
 <urn:mdciii:1603:16:418:2:401>
@@ -1236,7 +1139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xay"@eng-Latn ,
         "ມ. ໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA0401" ;
 .
 
 <urn:mdciii:1603:16:418:2:402>
@@ -1247,7 +1149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La"@eng-Latn ,
         "ມ. ຫຼາ"@lao-Laoo ;
-    wdata:q7200235 "LA0402" ;
 .
 
 <urn:mdciii:1603:16:418:2:403>
@@ -1258,7 +1159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Namor"@eng-Latn ,
         "ມ. ນາໝໍ້"@lao-Laoo ;
-    wdata:q7200235 "LA0403" ;
 .
 
 <urn:mdciii:1603:16:418:2:404>
@@ -1269,7 +1169,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nga"@eng-Latn ,
         "ມ. ງາ"@lao-Laoo ;
-    wdata:q7200235 "LA0404" ;
 .
 
 <urn:mdciii:1603:16:418:2:405>
@@ -1280,7 +1179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beng"@eng-Latn ,
         "ມ. ແບງ"@lao-Laoo ;
-    wdata:q7200235 "LA0405" ;
 .
 
 <urn:mdciii:1603:16:418:2:406>
@@ -1291,7 +1189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoon"@eng-Latn ,
         "ມ. ຮຸນ"@lao-Laoo ;
-    wdata:q7200235 "LA0406" ;
 .
 
 <urn:mdciii:1603:16:418:2:407>
@@ -1302,7 +1199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pakbeng"@eng-Latn ,
         "ມ. ປາກແບງ"@lao-Laoo ;
-    wdata:q7200235 "LA0407" ;
 .
 
 <urn:mdciii:1603:16:418:2:501>
@@ -1313,7 +1209,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huoixai"@eng-Latn ,
         "ມ. ຫ້ວຍຊາຍ"@lao-Laoo ;
-    wdata:q7200235 "LA0501" ;
 .
 
 <urn:mdciii:1603:16:418:2:502>
@@ -1324,7 +1219,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tonpheung"@eng-Latn ,
         "ມ. ຕົ້ນເຜິ້ງ"@lao-Laoo ;
-    wdata:q7200235 "LA0502" ;
 .
 
 <urn:mdciii:1603:16:418:2:503>
@@ -1335,7 +1229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Meung"@eng-Latn ,
         "ມ. ເມິງ"@lao-Laoo ;
-    wdata:q7200235 "LA0503" ;
 .
 
 <urn:mdciii:1603:16:418:2:504>
@@ -1346,7 +1239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pha Oudom"@eng-Latn ,
         "ມ. ຜາອຸດົມ"@lao-Laoo ;
-    wdata:q7200235 "LA0504" ;
 .
 
 <urn:mdciii:1603:16:418:2:505>
@@ -1357,7 +1249,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Paktha"@eng-Latn ,
         "ມ. ປາກທາ"@lao-Laoo ;
-    wdata:q7200235 "LA0505" ;
 .
 
 <urn:mdciii:1603:16:418:2:601>
@@ -1368,7 +1259,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luangprabang"@eng-Latn ,
         "ມ. ຫຼວງພະບາງ"@lao-Laoo ;
-    wdata:q7200235 "LA0601" ;
 .
 
 <urn:mdciii:1603:16:418:2:602>
@@ -1379,7 +1269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xieng Ngeun"@eng-Latn ,
         "ມ. ຊຽງເງີນ"@lao-Laoo ;
-    wdata:q7200235 "LA0602" ;
 .
 
 <urn:mdciii:1603:16:418:2:603>
@@ -1390,7 +1279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nan"@eng-Latn ,
         "ມ. ນານ"@lao-Laoo ;
-    wdata:q7200235 "LA0603" ;
 .
 
 <urn:mdciii:1603:16:418:2:604>
@@ -1401,7 +1289,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Park Ou"@eng-Latn ,
         "ມ. ປາກອູ"@lao-Laoo ;
-    wdata:q7200235 "LA0604" ;
 .
 
 <urn:mdciii:1603:16:418:2:605>
@@ -1412,7 +1299,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nambak"@eng-Latn ,
         "ມ. ນ້ຳບາກ"@lao-Laoo ;
-    wdata:q7200235 "LA0605" ;
 .
 
 <urn:mdciii:1603:16:418:2:606>
@@ -1423,7 +1309,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngoi"@eng-Latn ,
         "ມ. ງອຍ"@lao-Laoo ;
-    wdata:q7200235 "LA0606" ;
 .
 
 <urn:mdciii:1603:16:418:2:607>
@@ -1434,7 +1319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pak Xeng"@eng-Latn ,
         "ມ. ປາກແຊງ"@lao-Laoo ;
-    wdata:q7200235 "LA0607" ;
 .
 
 <urn:mdciii:1603:16:418:2:608>
@@ -1445,7 +1329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phonxay"@eng-Latn ,
         "ມ. ໂພນໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA0608" ;
 .
 
 <urn:mdciii:1603:16:418:2:609>
@@ -1456,7 +1339,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chomphet"@eng-Latn ,
         "ມ. ຈອມເພັດ"@lao-Laoo ;
-    wdata:q7200235 "LA0609" ;
 .
 
 <urn:mdciii:1603:16:418:2:610>
@@ -1467,7 +1349,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viengkham"@eng-Latn ,
         "ມ. ວຽງຄຳ"@lao-Laoo ;
-    wdata:q7200235 "LA0610" ;
 .
 
 <urn:mdciii:1603:16:418:2:611>
@@ -1478,7 +1359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phoukhoune"@eng-Latn ,
         "ມ. ພູຄູນ"@lao-Laoo ;
-    wdata:q7200235 "LA0611" ;
 .
 
 <urn:mdciii:1603:16:418:2:612>
@@ -1489,7 +1369,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phonthong"@eng-Latn ,
         "ມ. ໂພນທອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0612" ;
 .
 
 <urn:mdciii:1603:16:418:2:701>
@@ -1500,7 +1379,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xamneua"@eng-Latn ,
         "ມ. ຊຳເໜືອ"@lao-Laoo ;
-    wdata:q7200235 "LA0701" ;
 .
 
 <urn:mdciii:1603:16:418:2:702>
@@ -1511,7 +1389,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiengkhor"@eng-Latn ,
         "ມ. ຊຽງຄໍ້"@lao-Laoo ;
-    wdata:q7200235 "LA0702" ;
 .
 
 <urn:mdciii:1603:16:418:2:703>
@@ -1522,7 +1399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hiem"@eng-Latn ,
         "ມ. ຮ້ຽມ"@lao-Laoo ;
-    wdata:q7200235 "LA0703" ;
 .
 
 <urn:mdciii:1603:16:418:2:704>
@@ -1533,7 +1409,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viengxay"@eng-Latn ,
         "ມ. ວຽງໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA0704" ;
 .
 
 <urn:mdciii:1603:16:418:2:705>
@@ -1544,7 +1419,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huameuang"@eng-Latn ,
         "ມ. ຫົວເມືອງ"@lao-Laoo ;
-    wdata:q7200235 "LA0705" ;
 .
 
 <urn:mdciii:1603:16:418:2:706>
@@ -1555,7 +1429,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xamtay"@eng-Latn ,
         "ມ. ຊຳໃຕ້"@lao-Laoo ;
-    wdata:q7200235 "LA0706" ;
 .
 
 <urn:mdciii:1603:16:418:2:707>
@@ -1566,7 +1439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sopbao"@eng-Latn ,
         "ມ. ສົບເບົາ"@lao-Laoo ;
-    wdata:q7200235 "LA0707" ;
 .
 
 <urn:mdciii:1603:16:418:2:708>
@@ -1577,7 +1449,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Add"@eng-Latn ,
         "ມ. ແອດ"@lao-Laoo ;
-    wdata:q7200235 "LA0708" ;
 .
 
 <urn:mdciii:1603:16:418:2:709>
@@ -1588,7 +1459,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kuan"@eng-Latn ,
         "ມ. ກວັນ"@lao-Laoo ;
-    wdata:q7200235 "LA0709" ;
 .
 
 <urn:mdciii:1603:16:418:2:710>
@@ -1599,7 +1469,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xon"@eng-Latn ,
         "ມ. ຊ່ອນ"@lao-Laoo ;
-    wdata:q7200235 "LA0710" ;
 .
 
 <urn:mdciii:1603:16:418:2:801>
@@ -1610,7 +1479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xayabury"@eng-Latn ,
         "ມ. ໄຊຍະບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA0801" ;
 .
 
 <urn:mdciii:1603:16:418:2:802>
@@ -1621,7 +1489,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khop"@eng-Latn ,
         "ມ. ຄອບ"@lao-Laoo ;
-    wdata:q7200235 "LA0802" ;
 .
 
 <urn:mdciii:1603:16:418:2:803>
@@ -1632,7 +1499,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hongsa"@eng-Latn ,
         "ມ. ຫົງສາ"@lao-Laoo ;
-    wdata:q7200235 "LA0803" ;
 .
 
 <urn:mdciii:1603:16:418:2:804>
@@ -1643,7 +1509,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngeun"@eng-Latn ,
         "ມ. ເງີນ"@lao-Laoo ;
-    wdata:q7200235 "LA0804" ;
 .
 
 <urn:mdciii:1603:16:418:2:805>
@@ -1654,7 +1519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xienghone"@eng-Latn ,
         "ມ. ຊຽງຮ່ອນ"@lao-Laoo ;
-    wdata:q7200235 "LA0805" ;
 .
 
 <urn:mdciii:1603:16:418:2:806>
@@ -1665,7 +1529,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phiang"@eng-Latn ,
         "ມ. ພຽງ"@lao-Laoo ;
-    wdata:q7200235 "LA0806" ;
 .
 
 <urn:mdciii:1603:16:418:2:807>
@@ -1676,7 +1539,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Parklai"@eng-Latn ,
         "ມ. ປາກລາຍ"@lao-Laoo ;
-    wdata:q7200235 "LA0807" ;
 .
 
 <urn:mdciii:1603:16:418:2:808>
@@ -1687,7 +1549,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kenethao"@eng-Latn ,
         "ມ. ແກ່ນທ້າວ"@lao-Laoo ;
-    wdata:q7200235 "LA0808" ;
 .
 
 <urn:mdciii:1603:16:418:2:809>
@@ -1698,7 +1559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Botene"@eng-Latn ,
         "ມ. ບໍ່ແຕນ"@lao-Laoo ;
-    wdata:q7200235 "LA0809" ;
 .
 
 <urn:mdciii:1603:16:418:2:810>
@@ -1709,7 +1569,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thongmyxay"@eng-Latn ,
         "ມ. ທົ່ງມີໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA0810" ;
 .
 
 <urn:mdciii:1603:16:418:2:811>
@@ -1720,7 +1579,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaysathan"@eng-Latn ,
         "ມ. ໄຊສະຖານ"@lao-Laoo ;
-    wdata:q7200235 "LA0811" ;
 .
 
 <urn:mdciii:1603:16:418:2:901>
@@ -1731,7 +1589,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pek"@eng-Latn ,
         "ມ. ແປກ"@lao-Laoo ;
-    wdata:q7200235 "LA0901" ;
 .
 
 <urn:mdciii:1603:16:418:2:902>
@@ -1742,7 +1599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kham"@eng-Latn ,
         "ມ. ຄຳ"@lao-Laoo ;
-    wdata:q7200235 "LA0902" ;
 .
 
 <urn:mdciii:1603:16:418:2:903>
@@ -1753,7 +1609,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nonghed"@eng-Latn ,
         "ມ. ໜອງແຣດ"@lao-Laoo ;
-    wdata:q7200235 "LA0903" ;
 .
 
 <urn:mdciii:1603:16:418:2:904>
@@ -1764,7 +1619,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khoune"@eng-Latn ,
         "ມ. ຄູນ"@lao-Laoo ;
-    wdata:q7200235 "LA0904" ;
 .
 
 <urn:mdciii:1603:16:418:2:905>
@@ -1775,7 +1629,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mork"@eng-Latn ,
         "ມ. ໜອກໄມ"@lao-Laoo ;
-    wdata:q7200235 "LA0905" ;
 .
 
 <urn:mdciii:1603:16:418:2:906>
@@ -1786,7 +1639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phookood"@eng-Latn ,
         "ມ. ພູກູດ"@lao-Laoo ;
-    wdata:q7200235 "LA0906" ;
 .
 
 <urn:mdciii:1603:16:418:2:907>
@@ -1797,6 +1649,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phaxay"@eng-Latn ,
         "ມ. ຜາໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA0907" ;
 .
 

@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vientiane Capital"@eng-Latn ,
         "ນະຄອນຫຼວງວຽງຈັນ"@lao-Laoo ;
-    wdata:q7200235 "LA01" ;
+    wdata:Q7200235 "LA01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -66,7 +66,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vientiane"@eng-Latn ,
         "ວຽງຈັນ"@lao-Laoo ;
-    wdata:q7200235 "LA10" ;
+    wdata:Q7200235 "LA10" ;
 .
 
 <urn:mdciii:1603:16:418:1:11>
@@ -79,7 +79,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bolikhamxai"@eng-Latn ,
         "ບໍລິຄຳໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA11" ;
+    wdata:Q7200235 "LA11" ;
 .
 
 <urn:mdciii:1603:16:418:1:12>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khammouan"@eng-Latn ,
         "ຄຳມ່ວນ"@lao-Laoo ;
-    wdata:q7200235 "LA12" ;
+    wdata:Q7200235 "LA12" ;
 .
 
 <urn:mdciii:1603:16:418:1:13>
@@ -105,7 +105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Savannakhet"@eng-Latn ,
         "ສະຫວັນນະເຂດ"@lao-Laoo ;
-    wdata:q7200235 "LA13" ;
+    wdata:Q7200235 "LA13" ;
 .
 
 <urn:mdciii:1603:16:418:1:14>
@@ -118,7 +118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Salavan"@eng-Latn ,
         "ສາລະວັນ"@lao-Laoo ;
-    wdata:q7200235 "LA14" ;
+    wdata:Q7200235 "LA14" ;
 .
 
 <urn:mdciii:1603:16:418:1:15>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sekong"@eng-Latn ,
         "ເຊກອງ"@lao-Laoo ;
-    wdata:q7200235 "LA15" ;
+    wdata:Q7200235 "LA15" ;
 .
 
 <urn:mdciii:1603:16:418:1:16>
@@ -144,7 +144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Champasack"@eng-Latn ,
         "ຈຳປາສັກ"@lao-Laoo ;
-    wdata:q7200235 "LA16" ;
+    wdata:Q7200235 "LA16" ;
 .
 
 <urn:mdciii:1603:16:418:1:17>
@@ -157,7 +157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Attapeu"@eng-Latn ,
         "ອັດຕະປື"@lao-Laoo ;
-    wdata:q7200235 "LA17" ;
+    wdata:Q7200235 "LA17" ;
 .
 
 <urn:mdciii:1603:16:418:1:18>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaisomboon"@eng-Latn ,
         "ໄຊສົມບູນ"@lao-Laoo ;
-    wdata:q7200235 "LA18" ;
+    wdata:Q7200235 "LA18" ;
 .
 
 <urn:mdciii:1603:16:418:1:2>
@@ -183,7 +183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phongsaly"@eng-Latn ,
         "ຜົ້ງສາລີ"@lao-Laoo ;
-    wdata:q7200235 "LA02" ;
+    wdata:Q7200235 "LA02" ;
 .
 
 <urn:mdciii:1603:16:418:1:3>
@@ -196,7 +196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Louangnamtha"@eng-Latn ,
         "ຫຼວງນ້ຳທາ"@lao-Laoo ;
-    wdata:q7200235 "LA03" ;
+    wdata:Q7200235 "LA03" ;
 .
 
 <urn:mdciii:1603:16:418:1:4>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Oudomxai"@eng-Latn ,
         "ອຸດົມໄຊ"@lao-Laoo ;
-    wdata:q7200235 "LA04" ;
+    wdata:Q7200235 "LA04" ;
 .
 
 <urn:mdciii:1603:16:418:1:5>
@@ -222,7 +222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bokeo"@eng-Latn ,
         "ບໍ່ແກ້ວ"@lao-Laoo ;
-    wdata:q7200235 "LA05" ;
+    wdata:Q7200235 "LA05" ;
 .
 
 <urn:mdciii:1603:16:418:1:6>
@@ -235,7 +235,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Louangphabang"@eng-Latn ,
         "ຫຼວງພະບາງ"@lao-Laoo ;
-    wdata:q7200235 "LA06" ;
+    wdata:Q7200235 "LA06" ;
 .
 
 <urn:mdciii:1603:16:418:1:7>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Houaphan"@eng-Latn ,
         "ຫົວພັນ"@lao-Laoo ;
-    wdata:q7200235 "LA07" ;
+    wdata:Q7200235 "LA07" ;
 .
 
 <urn:mdciii:1603:16:418:1:8>
@@ -261,7 +261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaignabouly"@eng-Latn ,
         "ໄຊຍະບູລີ"@lao-Laoo ;
-    wdata:q7200235 "LA08" ;
+    wdata:Q7200235 "LA08" ;
 .
 
 <urn:mdciii:1603:16:418:1:9>
@@ -274,6 +274,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiengkhouang"@eng-Latn ,
         "ຊຽງຂວາງ"@lao-Laoo ;
-    wdata:q7200235 "LA09" ;
+    wdata:Q7200235 "LA09" ;
 .
 
